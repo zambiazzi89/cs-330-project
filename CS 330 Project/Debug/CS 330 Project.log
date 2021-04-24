@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\shader.h(58,34): warning C4101: 'e': unreferenced local variable
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(328,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(356,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(357,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(365,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(366,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(375,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(376,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(765,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(766,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(770,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(771,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(773,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(774,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\imagi\source\repos\CS 330 Project\CS 330 Project\Source.cpp(783,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS 330 Project.vcxproj -> C:\Users\imagi\source\repos\CS 330 Project\Debug\CS 330 Project.exe
